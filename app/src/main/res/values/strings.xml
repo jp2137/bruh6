@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bruh6</string>
+    <string name="pre_msg">kup:</string>
+    <string name="checked1">cukier</string>
+    <string name="unchecked1"></string>
+    <string name="checkedTextView">CheckedTextView</string>
+    <string name="checked2">maka</string>
+    <string name="unchecked2"></string>
+</resources>
